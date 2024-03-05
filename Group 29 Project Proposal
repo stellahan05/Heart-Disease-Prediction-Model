@@ -14,6 +14,7 @@ Using only training data, visualize the data with at least one plot relevant to 
 Methods:
 Explain how you will conduct either your data analysis and which variables/columns you will use. Note - you do not need to use all variables/columns that exist in the raw data set. In fact, that's often not a good idea. For each variable think: is this a useful variable for prediction?
 Describe at least one way that you will visualize the results
+
 Expected outcomes and significance:
 What do you expect to find?
 What impact could such findings have?
