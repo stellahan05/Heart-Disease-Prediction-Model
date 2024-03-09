@@ -21,3 +21,5 @@ Expected outcomes and significance:
 What do you expect to find?
 What impact could such findings have?
 What future questions could this lead to?
+
+We expect to use existing data to predict future heart disease diagnoses. This finding could enhance diagnostic accuracy by avoiding errors inherent in manual, case-by-case diagnoses. This model relies on real-world case comparisons, potentially revolutionizing healthcare by allowing rapid diagnoses. For instance, doctors might only need to measure resting blood pressure upon admission, with all other features pre-filled (sex, age, chest pain type). This could benefit patients with busy lifestyles. However, this raises questions about whether the dataset features are comprehensive enough for accurate diagnosis. To improve accuracy, further research is needed to identify additional features outside the dataset that influence heart disease.
