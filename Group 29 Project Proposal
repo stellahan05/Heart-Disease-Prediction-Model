@@ -5,6 +5,10 @@ Provide some relevant background information on the topic so that someone unfami
 Clearly state the question you will try to answer with your project
 Identify and describe the dataset that will be used to answer the question
 
+-
+According to the CCDSS, 14 Canadian adults (20 and over) with diagnosed heart disease die every hour. With heart disease being the second leading cause of mortality in Canada, early detection and diagnosis remain a crucial first step in improving patient outcomes. In this proposal, the K-Nearest Neighbors (k-NN) algorithm is used on the Cleveland Heart Disease dataset for binary classification of heart disease based on the predictive variables of age, sex (1 = male; 0 = female), chest pain type (1-4), and resting blood pressure (mm Hg). By leveraging existing data, we aim to train our model to deliver rapid and accurate heart disease diagnoses to alleviate physician workload. This change will enable them to allocate more time towards direct patient interactions, improving both patient and physician quality of life. 
+-
+
 Preliminary exploratory data analysis:
 Demonstrate that the dataset can be read from the web into R 
 Clean and wrangle your data into a tidy format
