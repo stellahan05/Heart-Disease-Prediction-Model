@@ -1,0 +1,20 @@
+Title
+
+Introduction
+
+Methods
+
+Results
+
+Disucssion
+Results indicate that after tuning the model, the optimal k value was determined to be 11, which yielded the highest average accuracy of approximately 77.24%. The final k-NN model, fitted with the optimal k value, demonstrated an overall accuracy of approximately 76.92% on the testing set. The model correctly classified 36 cases of "Absent" heart disease and 24 cases of "Present" heart disease. However, it also misclassified 12 cases of "Absent" heart disease as "Present" and 6 cases of "Present" heart disease as "Absent." These findings suggest that the k-NN model shows potential in predicting heart disease.
+
+The results align with our expectations, and a model to predict heart disease presence was successfully developed. However, the overall accuracy of approximately 76.92% on the testing set was slightly lower than expected.
+
+These results provide a foundation for future research to build upon, potentially leading to further improvements in predicting heart disease using machine learning techniques. Such a model could enhance diagnostic accuracy by avoiding errors inherent in manual, case-by-case diagnoses. It relies on real-world case comparisons, potentially revolutionizing healthcare by allowing rapid diagnoses. For instance, doctors might only need to measure resting blood pressure upon admission, with all other features pre-filled (sex, age, chest pain type), benefitting patients with busy lifestyles. However, this raises questions about whether the dataset features are comprehensive enough for accurate diagnosis. Future research could focus on refining the model's performance by exploring additional features, such as genetic markers or lifestyle factors, that may enhance its predictive ability.
+
+In conclusion, this study contributes to the ongoing efforts in utilizing machine learning for predicting heart disease. By highlighting the strengths and limitations of the k-NN model, valuable insights for further research in this area was provided.
+
+
+Refereneces
+
