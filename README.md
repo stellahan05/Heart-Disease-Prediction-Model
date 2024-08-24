@@ -13,7 +13,12 @@ Programming Language: R
 Algorithm: K-Nearest Neighbours (k-NN)
 
 Libraries: 
-- tidyverse
+- tidyverse: for data manipulation, cleaning, and visualization
   - dplyr for data wrangling
   - ggplot2 for data visualization
-  - readr for reading data from the web
+- caret: for model training, cross-validation, and performance evaluation
+- class: for implementing the k-NN algorithm
+- pROC: for generating and visualizing ROC curves to evaluate model performance
+
+### Authors and Acknowledgements
+This project was a collaborative effort among Alaire, Chili, Howard, and myself, Stella.
