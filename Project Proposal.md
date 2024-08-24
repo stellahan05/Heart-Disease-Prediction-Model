@@ -1,4 +1,4 @@
-# Group Project Proposal
+# Project Proposal
 ## Predicting Heart Disease Presence using Cleveland Heart Disease Dataset
 
 ## Introduction:
